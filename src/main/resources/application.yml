@@ -1,0 +1,6 @@
+spring:
+  name: payment
+
+server:
+  port: 8082
+
